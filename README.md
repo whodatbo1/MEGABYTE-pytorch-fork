@@ -1,3 +1,5 @@
+The original <a href="https://github.com/lucidrains/MEGABYTE-pytorch">repository</a> was removed from the platform when the creator's account got suspended. Luckily, there is a <a href=https://codeberg.org/lucidrains>backup</a>. This repo reflects the state as last publically available.
+
 <img src="./MEGABYTE.png" width="450px"></img>
 
 ## MEGABYTE - Pytorch
